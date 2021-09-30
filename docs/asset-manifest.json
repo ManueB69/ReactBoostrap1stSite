@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactBoostrap1stSite/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/ReactBoostrap1stSite/static/js/main.9ba6cd95.chunk.js",
+    "main.js.map": "/ReactBoostrap1stSite/static/js/main.9ba6cd95.chunk.js.map",
+    "runtime-main.js": "/ReactBoostrap1stSite/static/js/runtime-main.532999d7.js",
+    "runtime-main.js.map": "/ReactBoostrap1stSite/static/js/runtime-main.532999d7.js.map",
+    "static/css/2.53150396.chunk.css": "/ReactBoostrap1stSite/static/css/2.53150396.chunk.css",
+    "static/js/2.56654a6f.chunk.js": "/ReactBoostrap1stSite/static/js/2.56654a6f.chunk.js",
+    "static/js/2.56654a6f.chunk.js.map": "/ReactBoostrap1stSite/static/js/2.56654a6f.chunk.js.map",
+    "static/js/3.a8d56076.chunk.js": "/ReactBoostrap1stSite/static/js/3.a8d56076.chunk.js",
+    "static/js/3.a8d56076.chunk.js.map": "/ReactBoostrap1stSite/static/js/3.a8d56076.chunk.js.map",
+    "index.html": "/ReactBoostrap1stSite/index.html",
+    "static/css/2.53150396.chunk.css.map": "/ReactBoostrap1stSite/static/css/2.53150396.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/ReactBoostrap1stSite/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.56654a6f.chunk.js.LICENSE.txt": "/ReactBoostrap1stSite/static/js/2.56654a6f.chunk.js.LICENSE.txt",
+    "static/media/IMG_1.jpg": "/ReactBoostrap1stSite/static/media/IMG_1.e6a0fa6d.jpg",
+    "static/media/IMG_2.jpg": "/ReactBoostrap1stSite/static/media/IMG_2.2f7b1284.jpg",
+    "static/media/IMG_3.jpg": "/ReactBoostrap1stSite/static/media/IMG_3.526f6ae8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.532999d7.js",
+    "static/css/2.53150396.chunk.css",
+    "static/js/2.56654a6f.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.9ba6cd95.chunk.js"
+  ]
+}
