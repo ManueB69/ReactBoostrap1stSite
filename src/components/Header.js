@@ -1,3 +1,5 @@
+import {NavLink} from 'react-router-dom'
+
 const Header = ()=> (
     <header className="mb-3">
       
@@ -11,9 +13,9 @@ const Header = ()=> (
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav">
-                        <a className="nav-link active" aria-current="page" href="#">Home</a>
-                        <a className="nav-link" href="#">Features</a>
-                        <a className="nav-link" href="#">Pricing</a>
+                        <NavLink activeClassName="active" exact className="nav-link" aria-current="page" to="/">Home</NavLink>
+                        <NavLink activeClassName="active" exact className="nav-link" to="/gallery">Gallery</NavLink>
+                        <NavLink activeClassName="active" exact className="nav-link" to="/contact">Contact</NavLink>
                     </div>
                 </div>
             </div>
