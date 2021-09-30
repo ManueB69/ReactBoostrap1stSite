@@ -6,7 +6,25 @@ function App() {
   return (
     <div className="App">
       <header className="Header">
-        <h1>Header</h1>
+      
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+          <div className="container-fluid">
+            <a className="navbar-brand" href="#">
+              <img src={require('./assets/social-instagram.png').default} alt="logo menu"/>
+            </a>
+            <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span className="navbar-toggler-icon"></span>
+            </button>
+            <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div className="navbar-nav">
+                <a className="nav-link active" aria-current="page" href="#">Home</a>
+                <a className="nav-link" href="#">Features</a>
+                <a className="nav-link" href="#">Pricing</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+        
       </header>
       
       <section>
@@ -20,8 +38,8 @@ function App() {
         </div>
       </section>
       
-      <footer>
-        <h2>Footer</h2>
+      <footer className="mt-3 bg-dark text-white">
+        <p>&copy; ManueB69</p>
       </footer>
     </div>
   );
